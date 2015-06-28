@@ -1,0 +1,16 @@
+{
+  "name": "akismetfunctionaltests",
+  "version": "0.0.1",
+  "dependencies": {
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5",
+    "webdriverio": "^2.4.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
